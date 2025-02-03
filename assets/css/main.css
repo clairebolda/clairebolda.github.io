@@ -135,7 +135,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #787878;
+		color: #fffff0;
 		font-weight: 400;
 		line-height: 1em;
 		margin: 0 0 1em 0;
@@ -2594,7 +2594,7 @@ input, select, textarea {
 		background-color: #1f1815;
 		background-attachment: scroll;
 		background-image: url("../../images/mcdonald_observatory_sunset.jpg");
-		background-position: bottom left;						
+		background-position: bottom;						
 		background-repeat: no-repeat;								
 		background-size: cover;
 		color: rgba(255, 255, 255, 0.5);
