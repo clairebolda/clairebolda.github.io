@@ -2595,8 +2595,8 @@ input, select, textarea {
 		background-attachment: scroll;
 		background-image: url("../../images/mcdonald_observatory_sunset.jpg") no-repeat;
 		background-position: top left;						
-		background-repeat: no-repeat;								
-		background-size: 100% 100%;
+		background-repeat: repeat;								
+		background-size: 100%;
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
